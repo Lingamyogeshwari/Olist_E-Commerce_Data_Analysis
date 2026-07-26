@@ -20,21 +20,21 @@ The dashboard enables business users to interactively explore data using slicers
 ---
 
 ## ⚙️**KPIs**
--Total Orders 
--Total Sales 
--Total Payments
--Average Review Score 
--Average Shipping Days 
+- Total Orders 
+- Total Sales 
+- Total Payments
+- Average Review Score 
+- Average Shipping Days 
 
 ---
 
 ## 📊**Dashboard Features**
--Interactive slicers 
--KPI Cards Donut Chart
--Clustered Column Chart
--Bar Chart
--Customer Analysis
--Sales Analysis 
+- Interactive slicers 
+- KPI Cards Donut Chart
+- Clustered Column Chart
+- Bar Chart
+- Customer Analysis
+- Sales Analysis 
 
 ---
 
