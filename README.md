@@ -20,7 +20,6 @@ The dashboard enables business users to interactively explore data using slicers
 ---
 
 ## ⚙️**KPIs**
-
 -Total Orders 
 -Total Sales 
 -Total Payments
