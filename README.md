@@ -20,6 +20,7 @@ The dashboard enables business users to interactively explore data using slicers
 ---
 
 ## ⚙️**KPIs**
+
 -Total Orders 
 -Total Sales 
 -Total Payments
@@ -31,10 +32,10 @@ The dashboard enables business users to interactively explore data using slicers
 ## 📊**Dashboard Features**
 -Interactive slicers 
 -KPI Cards Donut Chart
--Clustered Column Chart 
--	Bar Chart
--	Customer Analysis 
--	Sales Analysis 
+-Clustered Column Chart
+-Bar Chart
+-Customer Analysis
+-Sales Analysis 
 
 ---
 
@@ -56,12 +57,12 @@ The dashboard enables business users to interactively explore data using slicers
 ---
 ## 🔑 **Key Findings** 
 -	The average customer review score is 4.09/5, indicating generally high customer satisfaction.
--		Most 5-star reviews were associated with credit card payments.
--		Total sales reached approximately 13.59 million.
--		Total customer payments totalled approximately 16.01 million.
--		Around 99K orders were processed. The average delivery time was 11.31 days.
--		Approximately 77% of payment value was generated on weekdays, while 23% occurred on weekends. This indicates higher customer purchasing activity during weekdays.
--		São Paulo generated the highest total sales.
+-	Most 5-star reviews were associated with credit card payments.
+-	Total sales reached approximately 13.59 million.
+-	Total customer payments totalled approximately 16.01 million.
+-	Around 99K orders were processed. The average delivery time was 11.31 days.
+-	Approximately 77% of payment value was generated on weekdays, while 23% occurred on weekends. This indicates higher customer purchasing activity during weekdays.
+-	Sao Paulo generated the highest total sales.
 
 ---
 
