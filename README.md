@@ -1,14 +1,14 @@
-# Power-BI_-Olist_Store_Sales_Analysis
+# Power BI_Ecommerce_Olist_Store_Analysis
 Interactive Power BI dashboard analysing the Olist E-commerce dataset using DAX, Power Query, data modelling, KPIs and business insights.
 
-Domain: E-Commerce
-Project Name: Olist Store Analysis 
+**Domain**: E-Commerce
+**Project Name**: Olist Store Analysis 
 
-Project Overview
+**Project Overview**
 This Power BI project analyses the Olist store sales analysis to provide insights into sales performance, customer behaviour, payment methods, delivery performance and customer satisfaction.
 The dashboard enables business users to interactively explore data using slicers and visualisations.
 
-Business Objectives
+**Business Objectives**
 •	Analyse overall sales performance 
 •	Monitor customer satisfaction 
 •	Compare weekday vs weekend sales 
@@ -16,17 +16,14 @@ Business Objectives
 •	Identify top-performing cities 
 •	Measure average delivery time 
 
-⚙️KPIs
+⚙️**KPIs**
 •	Total Orders 
 •	Total Sales 
 •	Total Payments 
 •	Average Review Score 
 •	 Average Shipping Days 
 
-Dashboard Preview
- 
-
-📊Dashboard Features
+📊**Dashboard Features**
 •	Interactive slicers 
 •	KPI Cards 
 •	Donut Chart 
@@ -35,13 +32,13 @@ Dashboard Preview
 •	Customer Analysis 
 •	Sales Analysis 
 
-⚙️Tools Used
+⚙️**Tools Used**
 •	Power BI 
 •	Power Query 
 •	DAX 
 •	Data Modelling 
 
-Skills Demonstrated
+**Skills Demonstrated**
 •	Data Cleaning 
 •	Data Modelling 
 •	DAX Measures 
@@ -49,7 +46,7 @@ Skills Demonstrated
 •	Business Analysis 
 •	Interactive Reporting
 
-🔑 Key Findings: 
+🔑 **Key Findings** 
 •	The average customer review score is 4.09/5, indicating generally high customer satisfaction. 
 •	Most 5-star reviews were associated with credit card payments. 
 •	Total sales reached approximately 13.59 million. 
