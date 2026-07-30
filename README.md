@@ -1,9 +1,11 @@
 ## Olist E-Commerce Data Analysis
 ---
-## An end-to-end data analytics project using **Excel, MySQL and Power BI** to analyse the Olist E-Commerce dataset. The project focuses on cleaning raw data, answering business questions using SQL, and building an interactive dashboard to support business decision-making. The dashboard enables business users to interactively explore data using slicers and visualisations.
+
+An end-to-end data analytics project using **Excel, MySQL and Power BI** to analyse the Olist E-Commerce dataset. The project focuses on cleaning raw data, answering business questions using SQL, and building an interactive dashboard to support business decision-making. The dashboard enables business users to interactively explore data using slicers and visualisations.
+
 ---
 
-## 🏢 Domain: E-Commerce
+## Domain: E-Commerce
 ---
 ## Project Name: Olist Store Analysis
 ---
@@ -34,7 +36,7 @@ The datasets were cleaned and prepared using **Excel Power Query** by:
 
 ---
 
-##  SQL Business Analysis
+## SQL Business Analysis
 
 Business questions answered using MySQL:
 
@@ -46,7 +48,7 @@ Business questions answered using MySQL:
 
 ---
 
-## 📈 Dashboard Highlights
+## Dashboard Highlights
 
 The Power BI dashboard includes:
 
@@ -63,7 +65,7 @@ The Power BI dashboard includes:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Excel
 - Power Query
@@ -73,7 +75,7 @@ The Power BI dashboard includes:
 
 ---
 
-##  Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - SQL Joins & Aggregations
@@ -87,7 +89,7 @@ The Power BI dashboard includes:
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 -The average customer review score is 4.09/5, indicating generally high customer satisfaction.
 -	Most 5-star reviews were associated with credit card payments.
