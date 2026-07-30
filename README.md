@@ -1,13 +1,16 @@
 ## Olist E-Commerce Data Analysis
+---
 ## An end-to-end data analytics project using **Excel, MySQL and Power BI** to analyse the Olist E-Commerce dataset. The project focuses on cleaning raw data, answering business questions using SQL, and building an interactive dashboard to support business decision-making. The dashboard enables business users to interactively explore data using slicers and visualisations.
 ---
 
 ## 🏢 Domain: E-Commerce
 ---
-##Project Name: Olist Store Analysis
+## Project Name: Olist Store Analysis
 ---
-##Project Overview
+## Project Overview:
+
 This project analyses the Olist E-Commerce dataset to uncover sales trends, customer purchasing behaviour, delivery performance and customer satisfaction. The project follows a complete analytics workflow from cleaning the raw datasets to analysing business problems in SQL and finally presenting insights through an interactive Power BI dashboard.
+
 ---
 ## Business Objectives
 
@@ -80,19 +83,19 @@ The Power BI dashboard includes:
 - Dashboard Design
 - Data Visualisation
 - Business Analysis
--Interactive Reporting
+- Interactive Reporting
 
 ---
 
 ## 📊 Key Insights
 
-•	The average customer review score is 4.09/5, indicating generally high customer satisfaction.
-•	Most 5-star reviews were associated with credit card payments.
-•	Total sales reached approximately 13.59 million.
-•	Total customer payments totalled approximately 16.01 million.
-•	Around 99K orders were processed. The average delivery time was 11.31 days.
-•	Approximately 77% of payment value was generated on weekdays, while 23% occurred on weekends. This indicates higher customer purchasing activity during weekdays.
-•	Sao Paulo generated the highest total sales.
+-The average customer review score is 4.09/5, indicating generally high customer satisfaction.
+-	Most 5-star reviews were associated with credit card payments.
+-	Total sales reached approximately 13.59 million.
+-	Total customer payments totalled approximately 16.01 million.
+-	Around 99K orders were processed. The average delivery time was 11.31 days.
+-	Approximately 77% of payment value was generated on weekdays, while 23% occurred on weekends. This indicates higher customer purchasing activity during weekdays.
+-	Sao Paulo generated the highest total sales.
 ---
 
 
